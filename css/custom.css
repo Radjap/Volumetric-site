@@ -3,3 +3,6 @@ a:visited,
 a:hover {
   text-decoration: none !important;
 }
+ol, ul {
+    padding-left: 0rem !important;
+}
