@@ -905,7 +905,6 @@ body {
 .menu-world__active {
   background: #88bbd8;
   color: #ffffff;
-  margin-left: -27px;
 }
 .world__content {
   background-image: url(../img/world/bg.svg);
