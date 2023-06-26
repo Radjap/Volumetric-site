@@ -374,6 +374,9 @@ body {
 .home__button a {
   color: #ffffff;
 }
+.home__button a:hover {
+  color: #ffffff;
+}
 @media (max-width: 810px) {
   .home__title {
     font-size: 32px;
